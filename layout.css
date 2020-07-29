@@ -10,7 +10,6 @@ body{
   display: flex;
   flex-direction: column;
   max-width: 980px;
-  max-height: 290vh;
   margin:auto;
   }
 
